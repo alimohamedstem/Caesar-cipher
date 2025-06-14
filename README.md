@@ -9,7 +9,7 @@ A simple Python script that encrypts and decrypts messages using the **Caesar Ci
 
 ## 🖼️ Preview
 
-![Trial Screenshot](./trial.png)
+![Trial Screenshot](https://github.com/alimohamedstem/Caesar-cipher/blob/main/Trial.png)
 
 ---
 
